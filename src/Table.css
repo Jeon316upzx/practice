@@ -1,0 +1,59 @@
+.table__header {
+  border-bottom: 1px solid #c6c6c6;
+  margin-bottom: 20px !important;
+}
+.my__head {
+  font-size: 0.8rem !important;
+  font-weight: 700;
+}
+
+.profile {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+.time__icon,
+.tickets__icon {
+  opacity: 0.6 !important;
+  padding-top: 5px !important;
+}
+
+.active__icon {
+  opacity: 0.6 !important;
+  padding-top: 5px !important;
+  color: #28a745 !important;
+}
+
+.eye__icon {
+  opacity: 0.6 !important;
+  padding-top: 5px !important;
+  color: blue !important;
+}
+
+.delete__icon {
+  opacity: 0.6 !important;
+  padding-top: 5px !important;
+  color: red !important;
+}
+
+.time__title,
+.tickets__number {
+  font-weight: 500;
+}
+
+.divider {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-bottom: 3px;
+  opacity: 0.7 !important;
+}
+
+.email {
+  font-weight: 500;
+  color: #28a745 !important;
+}
+
+.my__row {
+  background-color: #c6c6c6;
+}

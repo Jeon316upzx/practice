@@ -1,0 +1,29 @@
+.sub__header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr;
+}
+
+.btn-transparent {
+  border: 1px solid #c6c6c6 !important;
+  color: #c6c6c6;
+  background-color: white;
+  margin-right: 10px;
+}
+
+.mysearch {
+  width: 340px !important;
+  padding-left: 2.5rem !important;
+}
+
+.input__container {
+  position: relative;
+}
+
+.search__icon {
+  position: absolute;
+  top: 52%;
+  left: 1rem;
+  transform: translateY(-50%);
+}
